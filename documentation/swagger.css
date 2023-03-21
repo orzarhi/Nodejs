@@ -1,0 +1,20 @@
+.swagger-ui .topbar {
+  background-color: rgb(9, 42, 114);
+}
+
+.swagger-ui .info .base-url {
+  font-size: 105%;
+}
+
+.swagger-ui .opblock.opblock-patch {
+  background: rgba(255, 166, 0, 0.199);
+  border-color: orange;
+}
+
+.swagger-ui .opblock.opblock-patch .opblock-summary {
+  border-color: orange;
+}
+
+.swagger-ui .opblock.opblock-patch .opblock-summary-method {
+  background: orange;
+}
